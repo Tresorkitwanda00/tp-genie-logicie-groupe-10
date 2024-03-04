@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GestionEtudiants",
+    "\\GestionEtudiants\\GestionEtudiantGUI",
+    "\\GestionEtudiants\\GestionEtudiantGUI\\Resources",
+    "\\GestionEtudiants\\GestionEtudiantLib",
+    "\\GestionEtudiants\\GestionEtudiantLib\\Properties",
+    "\\GestionEtudiants\\GestionEtudiantUtilitiesLib",
+    "\\GestionEtudiants\\ManageSingleConnexion",
+    "\\GestionEtudiants\\ManageSingleConnexion\\Fakes",
+    "\\GestionEtudiants\\ManageSingleConnexion\\Properties"
+  ],
+  "SelectedNode": "\\GestionEtudiants\\ManageSingleConnexion\\Fakes\\Npgsql.fakes",
+  "PreviewInSolutionExplorer": false
+}
